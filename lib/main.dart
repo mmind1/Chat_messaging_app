@@ -1,3 +1,4 @@
+// Import respective packages
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_chat/models/user_data.dart';
 import 'package:firebase_chat/screens/home_screen.dart';
